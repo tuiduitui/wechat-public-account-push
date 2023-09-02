@@ -11,7 +11,7 @@ const USER_CONFIG = {
   APP_ID: 'wx87edf3f6e1025cf3',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'becb1b2695991956084603419fa2238b',
+  APP_SECRET: 'ef42a1175e2497db06c4cb864efa06e6',
 
   PROVINCE: '安徽',
   CITY: '合肥',
@@ -57,7 +57,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oShA16dWuSUNOF6W8rEaq1b4W2Wo',
+      id: 'oShA16fyWBIKDYPJxPKOQxA3Z1N4',
     }
   ],
 
